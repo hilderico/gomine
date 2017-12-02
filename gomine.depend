@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512168337 source:c:\users\xboxslim\documents\codeblocks\gomine\main.c
+	<stdio.h>
+	<stdlib.h>
+
